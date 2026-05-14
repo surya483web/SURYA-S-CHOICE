@@ -1,0 +1,8 @@
+{
+  "name": "Surya's Choice",
+  "description": "A premium snack and beverage shop offering samosas, tea, coffee, and biscuits with a dedicated ordering system, wishlist, and owner management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
